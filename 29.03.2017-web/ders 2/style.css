@@ -1,0 +1,35 @@
+	/* Stil açıklamaları*/	
+/*
+li>strong {
+		background-color:red;
+		text-decoration:underline;		
+}
+*/
+
+#ad li.onemli strong {
+		font-size:50px;
+}
+
+.vurgu{
+	background-color:yellow;
+	font-weight:bold;
+	font-style:italic;
+	text-decoration:underline;
+	font-size:50px;
+}
+
+h2{
+	border:15px groove rgb(255,0,0);
+	border-radius:20px 0px 20px 0px; /* kenar yuvarlatma */
+}
+h1{		/* tanımlanmayan değer varsayılan değeri alır. */
+	border-top:5pt dashed #ffff00;
+	border-left:3pt dotted aqua;
+	border-right-width:2pt;
+	border-right-color:rgb(255,0,255);
+	border-right-style:solid; 
+ 
+}
+
+
+

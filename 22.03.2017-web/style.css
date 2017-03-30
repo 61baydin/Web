@@ -1,0 +1,50 @@
+		/* Stil açıklamaları*/
+/* p,pre{
+	color:red;
+	background-color:#ffff00;
+	background-color:yellow;
+	opacity: 1 ; /* yazmaya gerek yok,default
+	text-shadow:2px 2px red;
+	text-shadow:3px 3px yellow;
+	box-shadow:10px 10px 15px;	
+}
+p.seffaf1{
+	opacity:1;
+}
+p.seffaf2{
+	opacity:0.75;
+}
+p.seffaf3{
+	opacity:0.5;
+}
+p.seffaf4{
+	opacity:0.25;
+}
+p.seffaf5{
+	opacity:0;
+}
+ */
+	body { font-family: sans-serif; background-color: yellow; }
+	p { color: red; background-color: aqua; }
+	a { text-decoration: underline; }
+	h2 { font-weight: bold; text-align: center; }	
+img.ust{ vertical-align:top;}
+img.orta{ vertical-align:middle;}
+img.alt{ vertical-align:bottom;}
+		
+/*
+body  {
+	background-image: url("images.jpeg");
+	background-repeat:repeat-x repeat-y; 
+	background-repeat: repeat;
+	background-position: 100px 100px;
+	/* background-attachment: fixed; ekranda sabit kalıyor
+}
+p.secret{
+	visibility:hidden; gizler 
+	display:none;  yer ayırmaz 
+}
+*/
+ol { list-style-type:lower-roman; }
+ul { list-style-type:square; }
+

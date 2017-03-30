@@ -1,0 +1,24 @@
+	/* Stil açıklamaları*/	
+
+p#web{
+	color:green;
+	background-color:black;
+	font-weight: bold;  /* kalın yazı için */
+	font-family:cursive; /* kullanılan font */
+}
+h1.kirmizi{
+	color:red;	
+}
+.yesil{
+	background-color:green;
+}
+
+div#menu{
+	background-color:yellow;	
+}
+
+
+
+
+
+

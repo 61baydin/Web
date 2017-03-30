@@ -1,0 +1,18 @@
+p{
+/*	background-color:rgb(255,255,255);	*/
+	text-align:left;
+	font-size:1.5em;
+/*	text-decoration:underline overline line-through; */
+	text-shadow:2px 2px red;
+	letter-spacing:10px;
+}
+body  {
+/*	background-image: url("images.jpeg"); */
+/*	background-repeat:repeat-x repeat-y; */
+	background-repeat:no-repeat;
+	background-position: 100px 100px;
+	/* background-attachment: fixed; ekranda sabit kalıyor*/
+}
+ul{
+	
+}
