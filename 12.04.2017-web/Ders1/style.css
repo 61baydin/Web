@@ -1,0 +1,52 @@
+	/* Stil açıklamaları*/	
+div#menu
+{
+	position:absolute;	/*absolute fixed static  relative*/
+	top:20px;
+	left:200px;
+	border:2px dotted black;
+	background-color:gray;
+	width:300px;
+	height:200px;
+}
+div#altmenu
+{
+	position:relative;	/*absolute fixed static  relative*/
+	top:20px;
+	left:20px;
+	width:100px;
+	height:100px
+	border:2px dotted yellow;
+}
+
+
+
+.bolgecik{
+		width:100px; /*satır içi elemena etki etmez*/
+		height:100px;
+		margin-top:100px;
+		margin-bottom:100px;
+		margin-left:10px;/*left - right etki eder */
+		margin-right:10px;
+		background-color:red;
+		border: 5px solid yellow;
+		
+}
+
+h1{
+	display:inline-block; /*visibilty ekranda yer ayırır göstermez*/
+		        /*none yer ayırmaz göstermez*/
+			/*inline yapınca artık satır içi olur*/
+			/*inline-block genişlik ve yukseklik setlenebilir*/
+	border: 5px solid yellow;
+	width:200px; /* display:inline oldugunda etki etmez*/
+	height:200px;	
+	background-color:aqua;
+}
+
+#topmenu li {
+		display: inline;
+		border: 2px solid gray;
+		margin-right: 1em;
+}                                                                   
+
