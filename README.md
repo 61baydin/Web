@@ -1,6 +1,6 @@
 # HTML-CSS
 
-**web programlama dersi alıştırmalar**
+***web programlama dersi alıştırmaları***
 
 ## Çalışılan Kaynaklar
 
