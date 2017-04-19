@@ -1,4 +1,4 @@
-# HTML-CSS
+# HTML-CSS-JS
 
 ***web programlama dersi alıştırmaları***
 
