@@ -1,5 +1,5 @@
 
-# ***web programlama dersi alıştırmaları***
+# ***Web Programlama dersi alıştırmaları***
 
 ## Çalışılan Kaynaklar
 
