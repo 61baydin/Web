@@ -7,9 +7,9 @@ function yuvarlat($sayi){
 $s= 5.4556;
 print yuvarlat($s);
 
-print "<hr /";
+print "<hr />";
 
-function ayri_yaz($str, $ayrac = ", ") {         #çalışmadı kontrol et!!!
+function ayri_yaz($str, $ayrac = ", ") {       
 	if (strlen($str) > 0) {
 		print $str[0];
 		for ($i = 1; $i < strlen($str); $i++) {
@@ -22,11 +22,11 @@ ayri_yaz("PHP","_ ");
 
 $genel = "php";
 
-function yaz(){       #çalışmadı
+function yaz(){      
 	global $genel;	# bu belirtilmesse local olur ve null değer almıi olur yazmaz.
 	print $genel; 
 }
-print "<hr /";
+print "<hr />";
 
 /*	#$deg;
 	#$deg=null;
