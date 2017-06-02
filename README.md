@@ -7,6 +7,8 @@
 
 1- http://courses.cs.washington.edu/courses/cse154/16sp/lectures/05-27/slides.pdf
 
+### Html
+
 2- http://courses.cs.washington.edu/courses/cse154/16au/lectures/09-28/slides.pdf
 
 3- http://courses.cs.washington.edu/courses/cse154/16au/lectures/09-30/slides.pdf
@@ -21,7 +23,7 @@
 
 7- http://courses.cs.washington.edu/courses/cse154/16au/lectures/10-10/slides.pdf
 
-### PHP
+### Php
 
 8-http://courses.cs.washington.edu/courses/cse154/15sp/lectures/04-10/slides.pdf
 
@@ -29,6 +31,6 @@
 
 10-http://courses.cs.washington.edu/courses/cse154/16au/lectures/11-02/slides.pdf
 
-### FORM
+### Form
 
 11-http://courses.cs.washington.edu/courses/cse154/16au/lectures/11-14/slides.pdf
