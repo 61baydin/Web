@@ -15,6 +15,8 @@
 
 6- http://courses.cs.washington.edu/courses/cse154/16au/lectures/10-07/slides.pdf
 
+### Javascript
+
 7- http://courses.cs.washington.edu/courses/cse154/16au/lectures/10-10/slides.pdf
 
 ### PHP
